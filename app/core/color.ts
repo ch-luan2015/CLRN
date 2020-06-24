@@ -1,0 +1,36 @@
+export const Color = {
+  Grey9: "#443e39",
+  Grey8: "#706B67",
+  Grey7: "#8C8885",
+  Grey6: "#A29F9C",
+  Grey5: "#B5B3B0",
+  Grey4: "#C5C3C2",
+  Grey3: "#D4D3D1",
+  Grey2: "#E1E0E0",
+  Grey1: "#EEEDED",
+  Grey0: "#FAFAFA",
+
+  White: "#FFFFFF",
+  Black: "#000000",
+
+  Primary10: "#4E2B13",
+  Primary7: "#FFB500",
+  Primary6: "#F5AD00",
+  Primary5: "#FDB811",
+  Primary4: "#FDC63F",
+  Primary3: "#FED267",
+  Primary2: "#FFEDC2",
+  Primary1: "#FFFBEB",
+
+  Success5: "#0F9960",
+  Success4: "#0F9960",
+  Success3: "#3DCC91",
+  Success2: "#76D5AD",
+  Succces1: "#C7F2DF",
+
+  Danger5: "#DB3737",
+  Danger4: "#F55656",
+  Danger3: "##FF7373",
+  Danger2: "#F5AAAA",
+  Danger1: "#FCF0F0",
+};
